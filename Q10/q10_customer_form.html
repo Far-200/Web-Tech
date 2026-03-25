@@ -1,0 +1,92 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Question 10 - Customer Information Form</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #eef9f1;
+      }
+      .form-box {
+        width: 500px;
+        margin: 40px auto;
+        background-color: white;
+        padding: 25px;
+        border-radius: 12px;
+        box-shadow: 0 0 10px gray;
+      }
+      h2 {
+        text-align: center;
+        color: darkgreen;
+      }
+      label {
+        font-weight: bold;
+      }
+      input,
+      textarea,
+      select {
+        width: 100%;
+        padding: 8px;
+        margin-top: 5px;
+        margin-bottom: 15px;
+      }
+      .inline {
+        width: auto;
+      }
+      .buttons {
+        text-align: center;
+      }
+      .buttons input {
+        width: 120px;
+        margin: 10px;
+        background-color: #2e8b57;
+        color: white;
+        border: none;
+        cursor: pointer;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="form-box">
+      <h2>Customer Information Form</h2>
+
+      <form>
+        <label>Customer Name:</label>
+        <input type="text" name="customerName" />
+
+        <label>Address:</label>
+        <textarea rows="4" name="address"></textarea>
+
+        <label>Gender:</label><br />
+        <input class="inline" type="radio" name="gender" value="male" /> Male
+        <input class="inline" type="radio" name="gender" value="female" />
+        Female
+        <input class="inline" type="radio" name="gender" value="other" /> Other
+        <br /><br />
+
+        <label>Languages Known:</label><br />
+        <input class="inline" type="checkbox" name="lang" value="english" />
+        English
+        <input class="inline" type="checkbox" name="lang" value="hindi" /> Hindi
+        <input class="inline" type="checkbox" name="lang" value="kannada" />
+        Kannada
+        <input class="inline" type="checkbox" name="lang" value="urdu" /> Urdu
+        <br /><br />
+
+        <label>City:</label>
+        <select name="city">
+          <option>Bangalore</option>
+          <option>Mumbai</option>
+          <option>Delhi</option>
+          <option>Hyderabad</option>
+          <option>Chennai</option>
+        </select>
+
+        <div class="buttons">
+          <input type="submit" value="Submit" />
+          <input type="reset" value="Clear" />
+        </div>
+      </form>
+    </div>
+  </body>
+</html>
