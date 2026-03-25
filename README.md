@@ -38,7 +38,9 @@ This repository is created to:
 - Maintain organized assignment submissions
 - Improve code structuring and documentation habits
 
-    <details>
-    <summary>📌 Hidden Truth</summary>
-    - Original purpose : To get marks 🫠
-    </details>
+<details>
+<summary>📌 Hidden Truth</summary>
+
+- Original purpose: To get marks 🫠
+
+</details>
