@@ -40,5 +40,5 @@ This repository is created to:
 
 <details>
 <summary>📌 Hidden Truth</summary>
-- Get Marks 🫠
+- Original purpose is to get marks 🫠
 </details>
