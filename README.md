@@ -33,9 +33,13 @@ Each folder corresponds to a specific question from the assignment:
 
 This repository is created to:
 
-<details>
-<summary>📌 Hidden Truth</summary>
+- Demonstrate understanding of Web Technology concepts
+- Practice front-end development skills
+- Maintain organized assignment submissions
+- Improve code structuring and documentation habits
 
-- Get Marks 😌
+    <details>
+    <summary>📌 Hidden Truth</summary>
+  - Get Marks 🫠
 
-</details>
+    </details>
