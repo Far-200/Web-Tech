@@ -21,6 +21,12 @@ Each folder corresponds to a specific question from the assignment:
 
 ---
 
+## 📄 Assignment Preview
+
+## [![Assignment Preview](./assets/preview.png)](./assets/WT_Assignment_Report.pdf)
+
+---
+
 ## 🚀 Technologies Used
 
 - HTML5
