@@ -43,7 +43,6 @@ This repository is created to:
 - Practice front-end development skills
 - Maintain organized assignment submissions
 - Improve code structuring and documentation habits
-- Project is done🥲
 
 <details>
 <summary>📌 Hidden Truth</summary>
