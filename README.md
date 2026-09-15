@@ -31,7 +31,6 @@ Each folder corresponds to a specific question from the assignment:
 
 - HTML5
 - CSS3
-- JavaScript
 
 ---
 
